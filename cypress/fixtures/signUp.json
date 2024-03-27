@@ -2,11 +2,14 @@
     "main_url": "https://dev.profteam.su/registration",
     "none_existent_login": "test252test",
     "login": "testerStudent",
+    "login2": "alinaer",
     "email": "student@gmail.com",
     "password": "Password1",
     "none_existent_email": "student456@gmail.com",
     "none_existent_password": "Password",
     "new_password": "QWEasd123",
-    "new_email": "student34@gmail.com",
-    "new_login": "newLog"
+    "new_email": "student3774@gmail.com",
+    "new_login": "newLogiu",
+    "new_fam": "Сидоров",
+    "new_name": "Андрей"
 }
